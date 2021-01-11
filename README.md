@@ -1,6 +1,7 @@
 # 9100F_ASUS.B360i_GT730_OC
 
 ------------------基本配置---------------------------------------
+
 主板｜ROG STRIX B360-I GAMING
 CPU｜Intel(R) Core(TM) i3-9100F
 内存｜Galaxy 8G 2133MHZ x 2
