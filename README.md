@@ -25,18 +25,18 @@ iMessage ：	                OK
 
 ------------------BIOS设置---------------------------------------  
 BIOS版本：	2811 （2020/07/23）  
-CFGLock：	Disabled  
-VT-d： 		Disabled  
-大于4G地址空间解码：Enabled  
-DVMTPre-Allocated：128M  
-Systemtime and Alarm Source ：Legacy RTC  
-SATA模式选择 ：	AHCI 必须设置  
-legacyUSB支持 ：	Enabled  
-XHCIHand-off ：	Enabled  
-快速启动 ：	Disabled  
-开启CSM ：	Disabled  
-安全启动状态 ：	关闭  
-操作系统类型 ：	其他操作系统  
+CFGLock>>Disabled  
+VT-d>>Disabled  
+大于4G地址空间解码>>Enabled  
+DVMTPre-Allocated>>128M（如果有）  
+Systemtime and Alarm Source >>Legacy RTC  
+SATA模式选择>>AHCI（必须设置）  
+legacyUSB support>>Enabled  
+XHCIHand-off>>Enabled  
+快速启动>>Disabled  
+开启CSM>>Disabled  
+安全启动状态>>关闭  
+操作系统类型 >>其他操作系统  
 
 ------------------OpenCOre---------------------------------------  
 2021.1.11  
