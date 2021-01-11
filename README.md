@@ -9,18 +9,19 @@ CPU｜Intel(R) Core(TM) i3-9100F
 显卡｜Bitland NVIDIA GeForce GT 730 2G（HP拆机）  
 声卡｜Realtek 1220A SuperFX  
 有线｜Intel i219v7 Gigabit Ethernet  
-无线｜BCM943224PCIEBT2（替换自带的英特尔9560AC）   
+无线｜BCM943224PCIEBT2（替换自带的英特尔9560AC)  
+
 ------------------工作设备---------------------------------------  
 声卡：		                     OK  
 显卡：		                     OK  
 有线：		                     OK  
-无线：		                     OK
-睡眠：		                     OK
-唤醒：		                     OK
-AirDrop ：	                  OK
-Handoff ：	                  OK
-FaceTime：                 	OK
-iMessage ：	                OK
+无线：		                     OK  
+睡眠：		                     OK  
+唤醒：		                     OK  
+AirDrop ：	                  OK  
+Handoff ：	                  OK  
+FaceTime：                 	OK  
+iMessage ：	                OK  
 ------------------工作设备---------------------------------------
 BIOS版本：	2811 （2020/07/23）
 CFGLock：	Disabled
